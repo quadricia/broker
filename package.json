@@ -1,0 +1,32 @@
+{
+    "name": "@quadricia/broker",
+    "version": "8.0.0",
+    "description": "Quadricia client horizontal scalability.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/quadricia/broker.git"
+    },
+    "dependencies": {
+        "async-stream-emitter": "^4.0.0",
+        "@quadricia/sc": "^16.0.4",
+        "skeleton-rendezvous": "^1.1.2"
+    },
+    "devDependencies": {
+
+    },
+    "keywords": [
+        "socketcluster",
+        "cluster",
+        "scc",
+        "client",
+        "horizontal",
+        "scalability"
+    ],
+    "author": "Stéphane Zucatti",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/SocketCluster/scc-broker-client/issues"
+    },
+    "homepage": "https://github.com/SocketCluster/scc-broker-client"
+}
